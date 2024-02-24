@@ -1,0 +1,33 @@
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.deps.json
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.dll
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.AssemblyInfoInputs.cache
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.AssemblyInfo.cs
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.csproj.CoreCompileInputs.cache
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.dll
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\refint\UsuariosApp.Domain.dll
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\ref\UsuariosApp.Domain.dll
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.deps.json
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.dll
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.AssemblyInfoInputs.cache
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.AssemblyInfo.cs
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.csproj.CoreCompileInputs.cache
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.dll
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\refint\UsuariosApp.Domain.dll
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\ref\UsuariosApp.Domain.dll
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.deps.json
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.dll
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.AssemblyInfoInputs.cache
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.AssemblyInfo.cs
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.csproj.CoreCompileInputs.cache
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.dll
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\refint\UsuariosApp.Domain.dll
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\ref\UsuariosApp.Domain.dll

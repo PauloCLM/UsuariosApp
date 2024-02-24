@@ -1,0 +1,49 @@
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.deps.json
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.dll
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.pdb
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Domain.dll
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.AssemblyReference.cache
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.AssemblyInfoInputs.cache
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.AssemblyInfo.cs
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.CopyComplete
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.dll
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\refint\UsuariosApp.Infra.Data.dll
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.pdb
+C:\COTI Secretaria\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\ref\UsuariosApp.Infra.Data.dll
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.deps.json
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.dll
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.pdb
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Domain.dll
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.AssemblyReference.cache
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.AssemblyInfoInputs.cache
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.AssemblyInfo.cs
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.CopyComplete
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.dll
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\refint\UsuariosApp.Infra.Data.dll
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.pdb
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\ref\UsuariosApp.Infra.Data.dll
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.runtimeconfig.json
+C:\csharp_sab_tarde_2023\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.genruntimeconfig.cache
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.deps.json
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.runtimeconfig.json
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.dll
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Infra.Data.pdb
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Domain.dll
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\bin\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.AssemblyReference.cache
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.AssemblyInfoInputs.cache
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.AssemblyInfo.cs
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.csproj.CopyComplete
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.dll
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\refint\UsuariosApp.Infra.Data.dll
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.pdb
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\UsuariosApp.Infra.Data.genruntimeconfig.cache
+C:\workspace_PauloCesar\UsuariosApp\UsuariosApp.Infra.Data\obj\Debug\net8.0\ref\UsuariosApp.Infra.Data.dll
